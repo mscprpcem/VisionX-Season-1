@@ -2,9 +2,9 @@
 
 **Organized by:** MSC-PRPCEM, Global AI Amravati, and P.R. Pote Patil College of Engineering and Management  
 
-**Event Type:** Online Quiz Competition  
+**Event Type:** Online Quiz Competition  (Every Monday)
 
-**Date & Time:** August 31, 2025 | 19:00 IST (2-hour duration)  
+**Date & Time:** 1st September – 20th October 2025   
 
 ---
 
@@ -45,22 +45,28 @@ VisionX Season 1 is a premier online quiz competition designed to test your know
 
 ## How to Participate
 
-1. Register using the official registration form.  
-2. Join the quiz at the scheduled time.  
-3. Answer each question within the given time frame.  
-4. Submit your answers before the timer ends.
+1. Register using the official registration form.
+2. Register here: https://www.meetup.com/global-ai-amravati/events/310785581/
+3. Join the quiz at the scheduled time.  
+4. Answer each question within the given time frame.  
+5. Submit your answers before the timer ends.
 
 ---
 
 ## Awards
 
-- Winners will receive recognition and prizes.  
-- Participation certificates may be provided.
+- Rank 1: Microsoft Azure Hoodie
+
+- Rank 2: 1-Year JetBrains Subscription (worth $289)
+
+- Rank 3: Microsoft Azure Backpack
+
+- Special Perk: Every participant will receive a Certificate of Participation 
 
 ---
 
 ## Contact
 
 For any queries or support, reach out to:  
-- MSC-PRPCEM Team  
-- Global AI Amravati Team
+- MSC-PRPCEM Team **mlsc@prpotepatilengg.ac.in**
+- Global AI Amravati Team **amravati@globalai.community**
