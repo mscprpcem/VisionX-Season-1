@@ -1,0 +1,165 @@
+#These are the questions along with their answers which was asked in week 1 which was based on AI Toos.
+
+Q1. Microsoft Copilot is primarily designed to:
+A) Replace programmers completely
+B) Assist users with productivity tasks using AI
+C) Hack into databases
+D) Replace Microsoft Office
+
+Answer: B
+Explanation: Copilot is a tool for assistance. It's built to help people be more productive by automating tasks, 
+summarizing information, and creating drafts, not to replace their jobs or the software they use.
+
+Q2. What do you call the text you type to ask AI for help?
+A) Command
+B) Spell
+C) Prompt
+D) Wishlist
+
+Answer: C
+Explanation: The input you give to a generative AI model is called a prompt. This is a fundamental term in the world of AI.
+
+Q3. Azure AI Studio is a platform for:
+A) Game development
+B) Low-code/no-code AI app building
+C) Designing 3D animations
+D) Cryptocurrency mining
+
+Answer: B
+Explanation: Azure AI Studio is a specialized platform for building and managing AI applications. 
+It offers tools for everyone from non-coders (low-code/no-code) to professional developers.
+
+Q4. True or False: Microsoft Copilot can only be used on a Windows computer.
+
+Answer: False
+Explanation: Copilot is available across many platforms, including Mac, iOS, Android, and web browsers, in addition to Windows. 
+Microsoft designed it to be platform-agnostic for maximum accessibility.
+
+Q5. Copilot leverages which technology for its suggestions?
+A) Rule-based programming
+B) Large Language Models
+C) Manual data tagging
+D) None of the above
+
+Answer: B
+Explanation: Copilot's power comes from Large Language Models (LLMs).
+These are massive AI models that have been trained on huge amounts of data, allowing them to understand and generate human-like language.
+
+Q6. You ask an AI to create a picture of "a cat wearing a spacesuit on the moon." 
+What is the name for this kind of AI that generates new content like images or text?
+A) Predictive AI
+B) Generative AI
+C) Analytical AI
+D) Robotic AI
+
+Answer: B
+Explanation: AI that creates something new, whether it's text, images, or music, is called Generative AI.
+
+Q7. What did Microsoft recently rename "Azure AI Studio" to?
+A) Azure ML Studio
+B) Azure AI Foundry
+C) Microsoft AI Hub
+D) Azure Smart Platform
+
+Answer: B
+Explanation: Microsoft rebranded Azure AI Studio as Azure AI Foundry to 
+better reflect its purpose as a central hub for building and managing AI solutions.
+
+Q8. "Responsible AI" in Microsoft tools means:
+A) AI that pays taxes
+B) AI that follows safety and fairness guidelines
+C) AI that works only on weekdays
+D) AI that requires passwords
+
+Answer: B
+Explanation: "Responsible AI" is an ethical framework focused on developing AI systems that are safe, 
+reliable, fair, and trustworthy-ensuring AI benefits society responsibly.
+
+Q9. True or False: Microsoft Copilot only works when you are connected to the internet.
+
+Answer: True
+Explanation: Copilot is a cloud-based service. It needs an internet connection to 
+send your prompt to the powerful AI models in the cloud and receive a response.
+
+Q10. Identify the AI Feature: In a Microsoft Teams meeting, a small pop-up asks if you 
+want a real-time summary of the conversation. What is the name of this AI feature?
+A) Speaker Coach
+B) Copilot in Teams
+C) Meeting Transcription
+D) Live Captioning
+
+Answer: B
+Explanation: The real-time meeting summary feature is a core part of Copilot in Teams. 
+The other options are also Teams features, but they do not provide a real-time summary.
+
+Q11. You are building an AI tool for a medical clinic. It will use a pre-trained model to read patient records. 
+Which of Microsoft's Responsible AI principles is most critical to ensure this tool doesn't accidentally reveal a patient's identity?
+A) Fairness
+B) Accountability
+C) Privacy and security
+D) Transparency
+
+Answer: C
+Explanation: When dealing with sensitive patient information, Privacy and security is the most critical principle to ensure data protection and confidentiality.
+
+Q12. In a professional AI project, a model is trained, then saved so it can be used later by other developers. 
+In Azure AI Studio, what is the feature called that acts as a central library for storing and managing these trained models?
+A) A Data Asset
+B) A Model Registry
+C) A Prompt Flow
+D) An AI Hub
+
+Answer: B
+Explanation: A Model Registry is a central repository used to store, version, 
+and manage trained machine learning models, making them available for others to use.
+
+Q13. A popular saying in the tech world is "AI is only as good as its data." 
+What is the single biggest problem with using biased or messy data in your AI model?
+A) It makes the model run faster
+B) It can make the model produce inaccurate or unfair results
+C) It requires more server space to store
+D) It makes the model cheaper to train
+
+Answer: B
+Explanation: If the data used to train an AI model is biased (for example, 
+it favors one group over another), the model will learn that bias and produce inaccurate or unfair results.
+
+Q14. "Prompt engineering" is like being a skilled chef. You don't create the ingredients, 
+but you know exactly how to combine them and what to add to get the perfect result from a large language model. 
+What are the "ingredients" you are providing to the model?
+A) The source code for the model
+B) The raw data used to train the model
+C) The carefully crafted input text (prompts)
+D) The user interface design
+
+Answer: C
+Explanation: The "ingredients" for an LLM are the prompts. Prompt engineering is the skill of 
+writing precise and effective prompts to get the desired output from the AI.
+
+Q15. When you ask Microsoft Copilot a question, it doesn't just pull from the internet. 
+It first "grounds" its response with data from somewhere else. What is that primary data source?
+A) Wikipedia and public forums
+B) The user's own Microsoft 365 data, like their emails, documents, and calendar
+C) A local database on your computer
+D) Data from your smartphone
+
+Answer: B
+Explanation: A key feature of Copilot for Microsoft 365 is its ability to access and "ground" its answers in the user's private data, 
+such as their emails, documents, and calendar, to provide highly personalized and relevant responses.
+
+Q16. In Microsoft word, Copilot can help you by:
+A) Writing and summarizing documents
+B) Installing software updates
+C) Changing your computer’s screen resolution
+D) Formatting your hard drive
+
+Answer: A
+Explanation: Copilot helps you to writing and summarizing documents
+
+Q17. What is the main use of using Azure OpenAI services for businesses?
+A) It mines cryptocurrency for revenue
+B) It provides secure access to powerful AI models in the cloud
+C) It replaces all human employees with robots
+D) It automatically backs up all business emails
+
+Answer: B
